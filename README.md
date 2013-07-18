@@ -4,6 +4,8 @@
 
 2013年7月12日 前田 章
 
+![](http://i1197.photobucket.com/albums/aa427/plginrt-project/816/tumblr_mg6l2utUbp1qzxlt6o1_500_zps0d64fde8.gif)
+
 ## 自己紹介
 
  * [https://about-p-kitak.sqale.jp/users/77](https://about-p-kitak.sqale.jp/users/77)
@@ -223,3 +225,4 @@ sleep 5 ;tmux display-message "hogemoge is done."
  * [時代はGNU screenからtmuxへ - Dマイナー志向](http://d.hatena.ne.jp/tmatsuu/20090709/1247150771)
  * [ターミナルマルチプレクサ Advent Calendar 2011 : ATND](http://atnd.org/events/22320) (@banyan氏と私も書いてます)
 
+![](http://i1197.photobucket.com/albums/aa427/plginrt-project/816/tumblr_mkyjxv98qF1r59cjso1_500_zps811f9baa.gif)
